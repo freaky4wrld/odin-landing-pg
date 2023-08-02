@@ -151,3 +151,29 @@ li{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 /* quote-section done---- */
+.contact-tab{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2.7rem 1rem;
+}
+.contact-info{
+    background-color: #3882f6;
+    display: flex;
+    gap: 9rem;
+    padding: 2.6rem 7rem;
+    border-radius: 0.75rem;
+    font-size: 20px;
+    color: white;
+}
+
+.btn>button{
+    font-size: 18px;
+    padding: 0.5rem 1.7rem;
+    color: white;
+    background-color: #3882f6;
+    border: white solid 2px;
+    border-radius: 7px;
+}
+
+/* Contact-section completed */
