@@ -177,3 +177,14 @@ li{
 }
 
 /* Contact-section completed */
+
+.footer{
+    text-align: center;
+    background-color: #1f2937;
+    color: white;
+    padding: 2rem 1rem;
+    font-size: 18px;
+
+}
+
+/* footer completed */
